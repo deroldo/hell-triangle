@@ -1,7 +1,7 @@
 # hell-triangle
 
 [![Build Status](https://travis-ci.org/deroldo/hell-triangle.svg?branch=master)](https://travis-ci.org/deroldo/hell-triangle)
-[![Coverage Status](https://coveralls.io/repos/github/deroldo/hell-triangle/badge.svg)](https://coveralls.io/github/deroldo/hell-triangle)
+[![Coverage Status](https://coveralls.io/repos/github/deroldo/hell-triangle/badge.svg?branch=master)](https://coveralls.io/github/deroldo/hell-triangle?branch=master)
 
 ## Hell Triangle - Challenge
 Given a triangle of numbers, find the maximum total from top to bottom.
@@ -27,4 +27,5 @@ So the element 3 in row 2 can be summed with 9 and 7, but not with 1
 
 ### Motivation
 Java is the programming language that I have more skills.
+
 I chose Java 8 because is better to work with collections.
